@@ -4,7 +4,7 @@ Hey! 👋
 I'm Markus, a software developer and computer engineer from Estonia.
 
 <code>Currently:</code> Msc CE and Robotics student at University of Tartu.<br/>
-<code>Previously:</code> Bsc CE student at University of Tartu / Android & NodeJS developer at [Rent&go](https://www.rentandgo.ee).
+<code>Previously:</code> Bsc CE student at University of Tartu / Android & JS/TS developer at [Rent&go](https://www.rentandgo.ee).
 
 ## Contact me at
 <p align="center">
