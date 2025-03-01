@@ -3,7 +3,7 @@ Hey! 👋
 
 I'm Markus, a software developer and computer engineer from Estonia.
 
-<code>Currently:</code> Msc CE and Robotics student at University of Tartu.<br/>
+<code>Currently:</code> Msc CE and Robotics student at University of Tartu<br/>
 <code>Previously:</code> Bsc CE student at University of Tartu
 
 ## Contact me at
